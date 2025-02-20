@@ -1,0 +1,59 @@
+	 
+body{   color: aliceblue;
+        background-color: rgb(1, 16, 30);
+        background-size: cover;
+    }
+
+
+    .nav {
+        background-color: rgba(0, 222, 242, 0.324);
+        padding: 30px;
+        column-gap: 5px; 
+       
+
+    }
+    .profile {
+            color: inherit;
+            border: 5px solid rgb(255, 255, 255);
+            padding:20px;
+            text-align :center ;
+            
+     }
+
+    .AboutMe{   
+            font-family: Helvetica ;
+            text-align: left;
+            font-size: 40px ;
+            letter-spacing: 2px;
+            
+
+           
+    }
+    .bghead{
+        background-color: rgba(28, 15, 98, 0.425);
+        background-image: url(image/1bg.jpeg);
+        opacity:100%;
+        line-height: 3px;
+        padding-top: 180px;
+        padding-bottom: 150px;
+       
+        
+    }
+    .Comic {
+        color: inherit;
+        text-align: center;
+        border: 5px solid rgb(255, 255, 255); 
+        margin-top: 25px;
+        padding-bottom: 20px;
+        margin-bottom: 5px;	
+        
+ }
+
+ 
+    
+
+    
+    
+   
+    
+   
